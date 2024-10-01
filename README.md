@@ -1,3 +1,3 @@
 # TABLEAU-PROJECTS
 
-[Check out the Tableau visualizations by Yashwanth Vijayaragavan](https://public.tableau.com/app/profile/yashwanth.vijayaragavan/vizzes)
+[Sales & Customer Dashboards](https://public.tableau.com/app/profile/yashwanth.vijayaragavan/viz/SalesCustomerDashboardsDynamic_17277925240020/CustomerDashboard)
